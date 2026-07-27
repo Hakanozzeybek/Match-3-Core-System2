@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 307b1debe6007054aaf8e0be21c6940f, type: 3}
+  m_Name: BuzluTasAdam
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  maxHealth: 200
+  damage: 150
+  idleSprite: {fileID: 5336124709341232467, guid: 9d15a22a46a2514439874ff0d0cb6a95, type: 3}
+  attackSprite: {fileID: 4781498844064628305, guid: 9d15a22a46a2514439874ff0d0cb6a95, type: 3}
+  impactSprite: {fileID: -7258863652864377085, guid: 9d15a22a46a2514439874ff0d0cb6a95, type: 3}
+  deadSprite: {fileID: 2061279148076283712, guid: 9d15a22a46a2514439874ff0d0cb6a95, type: 3}
+  AttackObjectPrefab: {fileID: 3901663855301737847, guid: fd4e98ef214c9ba4a9438d9e58620983, type: 3}

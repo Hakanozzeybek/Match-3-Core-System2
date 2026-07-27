@@ -1,0 +1,15 @@
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+.vs/
+.idea/
+
+*.csproj
+*.sln
+*.user
+*.suo

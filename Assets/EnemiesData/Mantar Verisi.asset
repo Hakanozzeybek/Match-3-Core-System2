@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 307b1debe6007054aaf8e0be21c6940f, type: 3}
+  m_Name: Mantar Verisi
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  maxHealth: 100
+  damage: 100
+  idleSprite: {fileID: 5855012104556227029, guid: 39c8661e777e02746a920ea017f48c9f, type: 3}
+  attackSprite: {fileID: 1016096155028746295, guid: 39c8661e777e02746a920ea017f48c9f, type: 3}
+  impactSprite: {fileID: 3477244773154788419, guid: 39c8661e777e02746a920ea017f48c9f, type: 3}
+  deadSprite: {fileID: 5983792995524793341, guid: 39c8661e777e02746a920ea017f48c9f, type: 3}
+  AttackObjectPrefab: {fileID: 3201046753817086343, guid: 496ea6b9644812645874617e8c09223f, type: 3}
